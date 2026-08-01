@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shiksha412005/leetCode_Question/tree/master/0014-longest-common-prefix) |
 | [0930-binary-subarrays-with-sum](https://github.com/shiksha412005/leetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 ## Hash Table
 |  |
@@ -26,5 +27,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shiksha412005/leetCode_Question/tree/master/0014-longest-common-prefix) |
 | [0567-permutation-in-string](https://github.com/shiksha412005/leetCode_Question/tree/master/0567-permutation-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shiksha412005/leetCode_Question/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
