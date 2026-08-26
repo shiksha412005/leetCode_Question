@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shiksha412005/leetCode_Question/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shiksha412005/leetCode_Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0189-rotate-array](https://github.com/shiksha412005/leetCode_Question/tree/master/0189-rotate-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/shiksha412005/leetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/shiksha412005/leetCode_Question/tree/master/0994-rotting-oranges) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/shiksha412005/leetCode_Question/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/shiksha412005/leetCode_Question/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/shiksha412005/leetCode_Question/tree/master/0994-rotting-oranges) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shiksha412005/leetCode_Question/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
