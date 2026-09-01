@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shiksha412005/leetCode_Question/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shiksha412005/leetCode_Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0189-rotate-array](https://github.com/shiksha412005/leetCode_Question/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shiksha412005/leetCode_Question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shiksha412005/leetCode_Question/tree/master/0283-move-zeroes) |
 | [0930-binary-subarrays-with-sum](https://github.com/shiksha412005/leetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/shiksha412005/leetCode_Question/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shiksha412005/leetCode_Question/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/shiksha412005/leetCode_Question/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/shiksha412005/leetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 ## Sliding Window
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shiksha412005/leetCode_Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/shiksha412005/leetCode_Question/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -64,4 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shiksha412005/leetCode_Question/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shiksha412005/leetCode_Question/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shiksha412005/leetCode_Question/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shiksha412005/leetCode_Question/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
