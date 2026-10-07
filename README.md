@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shiksha412005/leetCode_Question/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/shiksha412005/leetCode_Question/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/shiksha412005/leetCode_Question/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/shiksha412005/leetCode_Question/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/shiksha412005/leetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shiksha412005/leetCode_Question/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shiksha412005/leetCode_Question/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/shiksha412005/leetCode_Question/tree/master/0205-isomorphic-strings) |
 | [0567-permutation-in-string](https://github.com/shiksha412005/leetCode_Question/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shiksha412005/leetCode_Question/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/shiksha412005/leetCode_Question/tree/master/1903-largest-odd-number-in-string) |
