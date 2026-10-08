@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shiksha412005/leetCode_Question/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shiksha412005/leetCode_Question/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/shiksha412005/leetCode_Question/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/shiksha412005/leetCode_Question/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/shiksha412005/leetCode_Question/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/shiksha412005/leetCode_Question/tree/master/0930-binary-subarrays-with-sum) |
 ## Sliding Window
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shiksha412005/leetCode_Question/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shiksha412005/leetCode_Question/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/shiksha412005/leetCode_Question/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/shiksha412005/leetCode_Question/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/shiksha412005/leetCode_Question/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/shiksha412005/leetCode_Question/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shiksha412005/leetCode_Question/tree/master/1021-remove-outermost-parentheses) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shiksha412005/leetCode_Question/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shiksha412005/leetCode_Question/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/shiksha412005/leetCode_Question/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shiksha412005/leetCode_Question/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/shiksha412005/leetCode_Question/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -124,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/shiksha412005/leetCode_Question/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shiksha412005/leetCode_Question/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shiksha412005/leetCode_Question/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
