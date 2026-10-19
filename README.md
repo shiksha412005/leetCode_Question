@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shiksha412005/leetCode_Question/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/shiksha412005/leetCode_Question/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shiksha412005/leetCode_Question/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shiksha412005/leetCode_Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/shiksha412005/leetCode_Question/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -68,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shiksha412005/leetCode_Question/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/shiksha412005/leetCode_Question/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shiksha412005/leetCode_Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shiksha412005/leetCode_Question/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/shiksha412005/leetCode_Question/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shiksha412005/leetCode_Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
