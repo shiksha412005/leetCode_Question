@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shiksha412005/leetCode_Question/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/shiksha412005/leetCode_Question/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/shiksha412005/leetCode_Question/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shiksha412005/leetCode_Question/tree/master/0283-move-zeroes) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shiksha412005/leetCode_Question/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/shiksha412005/leetCode_Question/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shiksha412005/leetCode_Question/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/shiksha412005/leetCode_Question/tree/master/0205-isomorphic-strings) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shiksha412005/leetCode_Question/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/shiksha412005/leetCode_Question/tree/master/0053-maximum-subarray) |
 ## Simulation
 |  |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shiksha412005/leetCode_Question/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shiksha412005/leetCode_Question/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
